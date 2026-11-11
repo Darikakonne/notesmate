@@ -1,0 +1,13 @@
+
+streamlit
+langchain
+langchain-google-genai
+langchain-chroma
+langchain-community
+langchain-text-splitters
+chromadb
+pymupdf
+python-docx
+python-pptx
+supabase
+python-dotenv
